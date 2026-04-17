@@ -118,8 +118,8 @@ The broader takeaway: memory architecture matters a lot in sequence modeling. Ga
 
 ---
 
-## Tech Stack
+## Libraries Used
 
-- Python
+- Python :
 - TensorFlow / Keras
 - NumPy
