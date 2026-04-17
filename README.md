@@ -110,14 +110,6 @@ The broader takeaway: memory architecture matters a lot in sequence modeling. Ga
 
 ---
 
-## Future Work
-
-- Add temperature sampling for more varied text generation
-- Benchmark against a Transformer-based model
-- Train on a larger, more diverse corpus
-
----
-
 ## Libraries Used
 
 - Python :
